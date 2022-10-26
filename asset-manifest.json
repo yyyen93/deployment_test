@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/deployment/static/css/main.7c75bb24.css",
-    "main.js": "/deployment/static/js/main.77f33eab.js",
-    "static/js/787.a3b12527.chunk.js": "/deployment/static/js/787.a3b12527.chunk.js",
-    "static/media/SEGA.woff": "/deployment/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/deployment/index.html",
-    "main.7c75bb24.css.map": "/deployment/static/css/main.7c75bb24.css.map",
-    "main.77f33eab.js.map": "/deployment/static/js/main.77f33eab.js.map",
-    "787.a3b12527.chunk.js.map": "/deployment/static/js/787.a3b12527.chunk.js.map"
+    "main.css": "/deployment_test/static/css/main.9d5ef895.css",
+    "main.js": "/deployment_test/static/js/main.fef63dbd.js",
+    "static/js/787.a3b12527.chunk.js": "/deployment_test/static/js/787.a3b12527.chunk.js",
+    "static/media/SEGA.woff": "/deployment_test/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/deployment_test/index.html",
+    "main.9d5ef895.css.map": "/deployment_test/static/css/main.9d5ef895.css.map",
+    "main.fef63dbd.js.map": "/deployment_test/static/js/main.fef63dbd.js.map",
+    "787.a3b12527.chunk.js.map": "/deployment_test/static/js/787.a3b12527.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c75bb24.css",
-    "static/js/main.77f33eab.js"
+    "static/css/main.9d5ef895.css",
+    "static/js/main.fef63dbd.js"
   ]
 }
